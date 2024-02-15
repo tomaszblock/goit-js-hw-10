@@ -29,7 +29,7 @@ skonfigurowania dodatkowych opcji [zobacz dokumentację](https://parceljs.org/)
   chmurze, aby nie obciążać twojego komputera, ponieważ na słabszym sprzęcie
   może to zająć sporo czasu.
 
-## Deployment
+## Deploymentt
 
 Aby skonfigurować deployment projektu należy wykonać kilka dodatkowych kroków
 konfigurowania twojego repozytorium. Wejdź w zakładkę `Settings` i w podsekcji
